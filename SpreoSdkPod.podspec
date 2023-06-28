@@ -1,13 +1,13 @@
 Pod::Spec.new do |s|
-  s.name             = "SpreoSdkPod"
-  s.version          = "6.11.0"
-  s.summary          = "Indoor navigation SDK - SpreoPod"
+  s.name             = "SpreoPod"
+  s.version          = "6.11.1"
+  s.summary          = "Indoor navigation SDK - SpreoSdkPod"
  
-  s.description      = "A longer description of SpreoPod in Markdown format."
+  s.description      = "A longer description of SpreoSdkPod in Markdown format."
  
   s.homepage         = "https://github.com/centraksw/SpreoSdkPod"
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
-  s.author           = { "alozovoy" => "a.lozovoy@belitsoft.com" }
+  s.author           = { "alozovoy" => "alozovoy@centrak.com" }
   s.source           = { :git => "https://github.com/centraksw/SpreoSdkPod.git", :tag => s.version.to_s }
  
   s.platform     = :ios, '9.0'
