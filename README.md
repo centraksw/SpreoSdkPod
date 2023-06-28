@@ -12,7 +12,7 @@ ____________________________________
 
 # SDK Installations
 	* SDK installing via cocoapods
-    * Run command <pod 'SpreoPod'> in the sample apps
+    * Run command <pod 'SpreoSdkPod'> in the sample apps
 
 # Sample Directory:
     * Contains source code for sample applications.
