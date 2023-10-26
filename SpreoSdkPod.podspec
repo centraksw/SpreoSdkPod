@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name             = "SpreoSdkPod"
-  s.version          = "6.11.3"
+  s.version          = "6.11.4"
   s.summary          = "Indoor navigation SDK - SpreoSdkPod"
  
   s.description      = "A longer description of SpreoSdkPod in Markdown format."
