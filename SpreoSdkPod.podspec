@@ -7,7 +7,7 @@ Pod::Spec.new do |s|
  
   s.homepage         = "https://github.com/centraksw/SpreoSdkPod"
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
-  s.author           = { "alozovoy" => "alozovoy@centrak.com" }
+  s.author           = { "Sindhu Mariyappan" => "sindhum@centrak.com" }
   s.source           = { :git => "https://github.com/centraksw/SpreoSdkPod.git", :tag => s.version.to_s }
  
   s.platform     = :ios, '9.0'
